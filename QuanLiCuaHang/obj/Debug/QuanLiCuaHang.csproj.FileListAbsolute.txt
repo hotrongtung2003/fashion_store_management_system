@@ -1,0 +1,35 @@
+D:\Study\Đồ án 1\Thực hành\QuanLiCuaHang\QuanLiCuaHang\bin\Debug\QuanLiCuaHang.exe.config
+D:\Study\Đồ án 1\Thực hành\QuanLiCuaHang\QuanLiCuaHang\bin\Debug\QuanLiCuaHang.exe
+D:\Study\Đồ án 1\Thực hành\QuanLiCuaHang\QuanLiCuaHang\bin\Debug\QuanLiCuaHang.pdb
+D:\Study\Đồ án 1\Thực hành\QuanLiCuaHang\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.Properties.Resources.resources
+D:\Study\Đồ án 1\Thực hành\QuanLiCuaHang\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.csproj.GenerateResource.Cache
+D:\Study\Đồ án 1\Thực hành\QuanLiCuaHang\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.exe
+D:\Study\Đồ án 1\Thực hành\QuanLiCuaHang\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.pdb
+D:\Study\Đồ án 1\Thực hành\QuanLiCuaHang\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.MainForm.resources
+D:\Study\Đồ án 1\Thực hành\QuanLiCuaHang\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.FormNhanVien.resources
+D:\Study\Đồ án 1\Thực hành\QuanLiCuaHang\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.FormKhachHang.resources
+D:\Study\Đồ án 1\Thực hành\QuanLiCuaHang\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.FormDangKi.resources
+D:\Study\Đồ án 1\Thực hành\QuanLiCuaHang\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.csprojResolveAssemblyReference.cache
+D:\Study\Đồ án 1\Thực hành\QuanLiCuaHang\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.FormBanHang.resources
+D:\Study\Đồ án 1\Thực hành\QuanLiCuaHang\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.FormSanPham.resources
+D:\Study\Đồ án 1\Thực hành\QuanLiCuaHang\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.FormDangnhap.resources
+D:\Zalo\QuanLiCuaHang (1)\QuanLiCuaHang\bin\Debug\QuanLiCuaHang.exe.config
+D:\Zalo\QuanLiCuaHang (1)\QuanLiCuaHang\bin\Debug\QuanLiCuaHang.exe
+D:\Zalo\QuanLiCuaHang (1)\QuanLiCuaHang\bin\Debug\QuanLiCuaHang.pdb
+D:\Zalo\QuanLiCuaHang (1)\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.csproj.AssemblyReference.cache
+D:\Zalo\QuanLiCuaHang (1)\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.FormDangnhap.resources
+D:\Zalo\QuanLiCuaHang (1)\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.FormBanHang.resources
+D:\Zalo\QuanLiCuaHang (1)\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.FormDangKi.resources
+D:\Zalo\QuanLiCuaHang (1)\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.FormKhachHang.resources
+D:\Zalo\QuanLiCuaHang (1)\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.FormNhanVien.resources
+D:\Zalo\QuanLiCuaHang (1)\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.FormSanPham.resources
+D:\Zalo\QuanLiCuaHang (1)\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.MainForm.resources
+D:\Zalo\QuanLiCuaHang (1)\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.Properties.Resources.resources
+D:\Zalo\QuanLiCuaHang (1)\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.csproj.GenerateResource.cache
+D:\Zalo\QuanLiCuaHang (1)\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.csproj.CoreCompileInputs.cache
+D:\Zalo\QuanLiCuaHang (1)\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.exe
+D:\Zalo\QuanLiCuaHang (1)\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.pdb
+D:\Zalo\QuanLiCuaHang (1)\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.FormNhapHang.resources
+D:\Zalo\QuanLiCuaHang (1)\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.FormPopupThongKeDoanhThu.resources
+D:\Zalo\QuanLiCuaHang (1)\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.FormThongKe.resources
+D:\Zalo\QuanLiCuaHang (1)\QuanLiCuaHang\obj\Debug\QuanLiCuaHang.FormNhaCungCap.resources

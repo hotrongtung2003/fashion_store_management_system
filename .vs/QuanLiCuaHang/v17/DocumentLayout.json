@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QuanLiCuaHang (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|d:\\quanlicuahang (1)\\quanlicuahang\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|solutionrelative:quanlicuahang\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|d:\\quanlicuahang (1)\\quanlicuahang\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|solutionrelative:quanlicuahang\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|d:\\quanlicuahang (1)\\quanlicuahang\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|solutionrelative:quanlicuahang\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|d:\\quanlicuahang (1)\\quanlicuahang\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|solutionrelative:quanlicuahang\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|d:\\quanlicuahang (1)\\quanlicuahang\\formsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|solutionrelative:quanlicuahang\\formsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|d:\\quanlicuahang (1)\\quanlicuahang\\formnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|solutionrelative:quanlicuahang\\formnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|d:\\quanlicuahang (1)\\quanlicuahang\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|solutionrelative:quanlicuahang\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|d:\\quanlicuahang (1)\\quanlicuahang\\formnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|solutionrelative:quanlicuahang\\formnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|d:\\quanlicuahang (1)\\quanlicuahang\\formnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|solutionrelative:quanlicuahang\\formnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|d:\\quanlicuahang (1)\\quanlicuahang\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|solutionrelative:quanlicuahang\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|d:\\quanlicuahang (1)\\quanlicuahang\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|solutionrelative:quanlicuahang\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|d:\\quanlicuahang (1)\\quanlicuahang\\formdangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|solutionrelative:quanlicuahang\\formdangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|d:\\quanlicuahang (1)\\quanlicuahang\\formdangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|solutionrelative:quanlicuahang\\formdangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|d:\\quanlicuahang (1)\\quanlicuahang\\formbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A75C0A61-2A7D-4ABE-9901-60C7F0D1BC0D}|QuanLiCuaHang\\QuanLiCuaHang.csproj|solutionrelative:quanlicuahang\\formbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\MainForm.cs",
+              "RelativeDocumentMoniker": "QuanLiCuaHang\\MainForm.cs",
+              "ToolTip": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\MainForm.cs",
+              "RelativeToolTip": "QuanLiCuaHang\\MainForm.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:23:14.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\MainForm.cs",
+              "RelativeDocumentMoniker": "QuanLiCuaHang\\MainForm.cs",
+              "ToolTip": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\MainForm.cs [Design]",
+              "RelativeToolTip": "QuanLiCuaHang\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:23:09.839Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormThongKe.cs",
+              "DocumentMoniker": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormThongKe.cs",
+              "RelativeDocumentMoniker": "QuanLiCuaHang\\FormThongKe.cs",
+              "ToolTip": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormThongKe.cs",
+              "RelativeToolTip": "QuanLiCuaHang\\FormThongKe.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:22:53.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormSanPham.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormSanPham.cs",
+              "RelativeDocumentMoniker": "QuanLiCuaHang\\FormSanPham.cs",
+              "ToolTip": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormSanPham.cs [Design]",
+              "RelativeToolTip": "QuanLiCuaHang\\FormSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:22:50.131Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormThongKe.cs",
+              "RelativeDocumentMoniker": "QuanLiCuaHang\\FormThongKe.cs",
+              "ToolTip": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormThongKe.cs [Design]",
+              "RelativeToolTip": "QuanLiCuaHang\\FormThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:22:48.197Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormNhapHang.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormNhapHang.cs",
+              "RelativeDocumentMoniker": "QuanLiCuaHang\\FormNhapHang.cs",
+              "ToolTip": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormNhapHang.cs [Design]",
+              "RelativeToolTip": "QuanLiCuaHang\\FormNhapHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:22:46.172Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLiCuaHang\\FormNhanVien.cs",
+              "ToolTip": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormNhanVien.cs [Design]",
+              "RelativeToolTip": "QuanLiCuaHang\\FormNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:22:44.651Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormNhaCungCap.cs",
+              "DocumentMoniker": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormNhaCungCap.cs",
+              "RelativeDocumentMoniker": "QuanLiCuaHang\\FormNhaCungCap.cs",
+              "ToolTip": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormNhaCungCap.cs",
+              "RelativeToolTip": "QuanLiCuaHang\\FormNhaCungCap.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:22:32.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormNhaCungCap.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormNhaCungCap.cs",
+              "RelativeDocumentMoniker": "QuanLiCuaHang\\FormNhaCungCap.cs",
+              "ToolTip": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormNhaCungCap.cs [Design]",
+              "RelativeToolTip": "QuanLiCuaHang\\FormNhaCungCap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:22:27.667Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormDangnhap.cs",
+              "DocumentMoniker": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormDangnhap.cs",
+              "RelativeDocumentMoniker": "QuanLiCuaHang\\FormDangnhap.cs",
+              "ToolTip": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormDangnhap.cs",
+              "RelativeToolTip": "QuanLiCuaHang\\FormDangnhap.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:22:17.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormDangnhap.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormDangnhap.cs",
+              "RelativeDocumentMoniker": "QuanLiCuaHang\\FormDangnhap.cs",
+              "ToolTip": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormDangnhap.cs [Design]",
+              "RelativeToolTip": "QuanLiCuaHang\\FormDangnhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:22:08.43Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormDangKi.cs",
+              "DocumentMoniker": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormDangKi.cs",
+              "RelativeDocumentMoniker": "QuanLiCuaHang\\FormDangKi.cs",
+              "ToolTip": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormDangKi.cs*",
+              "RelativeToolTip": "QuanLiCuaHang\\FormDangKi.cs*",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAkwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:21:43.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormDangKi.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormDangKi.cs",
+              "RelativeDocumentMoniker": "QuanLiCuaHang\\FormDangKi.cs",
+              "ToolTip": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormDangKi.cs [Design]*",
+              "RelativeToolTip": "QuanLiCuaHang\\FormDangKi.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:21:35.917Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormBanHang.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormBanHang.cs",
+              "RelativeDocumentMoniker": "QuanLiCuaHang\\FormBanHang.cs",
+              "ToolTip": "D:\\QuanLiCuaHang (1)\\QuanLiCuaHang\\FormBanHang.cs [Design]",
+              "RelativeToolTip": "QuanLiCuaHang\\FormBanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:21:31.409Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
